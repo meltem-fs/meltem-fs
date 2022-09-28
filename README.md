@@ -45,3 +45,7 @@ developer.mozilla.orgdeveloper.mozilla.org
 JavaScript | MDN
 JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript.
 
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>
+
+
