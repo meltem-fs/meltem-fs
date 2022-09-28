@@ -4,7 +4,7 @@
 - :dancers: I’m looking to collaborate on ...
 - :speech_balloon:  Ask me about  Html,CSS and JavaScript
 - :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/meltemsanaldi/) || meltemfsanaldi@gmail.com
-- ![](https://github.com/meltem-fs)
+-![](https://komarev.com/ghpvc/?username=meltem-fs&blue)
 ## :trophy: GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=meltem-fs&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 ## Languages & Tools  :hammer_and_wrench:
